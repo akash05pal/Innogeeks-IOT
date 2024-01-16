@@ -1,3 +1,4 @@
+#task 2 ( just for practice purpose)
 num = 10
 n1, n2 = 0, 1
 print("Fibonacci Series:", n1, n2, end=" ")
